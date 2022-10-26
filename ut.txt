@@ -1,5 +1,7 @@
 <<<<<<< HEAD
 this line add in ut.txt file in ut branch
+git push
+git tag
 <<<<<<< HEAD
 git add
 =======
